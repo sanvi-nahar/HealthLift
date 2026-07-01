@@ -1,6 +1,6 @@
-# HealthyMe - Health Monitoring Android App
+# HealthLift - Health Monitoring Android App
 
-HealthyMe is a comprehensive Android application designed to help users track and monitor their vital health statistics. Built using Java and SQLite, the app provides a user-friendly interface to record and visualize health data such as Blood Pressure, Sugar Levels, and Calorie Intake over time.
+HealthLift is a comprehensive Android application designed to help users track and monitor their vital health statistics. Built using Java and SQLite, the app provides a user-friendly interface to record and visualize health data such as Blood Pressure, Sugar Levels, and Calorie Intake over time.
 
 ## 🚀 Features
 
@@ -58,7 +58,7 @@ HealthyMe is a comprehensive Android application designed to help users track an
 ## 📂 Project Structure
 
 ```text
-app/src/main/java/com/example/healthyme/
+app/src/main/java/com/example/healthlift/
 ├── AdapterClasses/   # RecyclerView and ViewPager adapters
 ├── Common/           # Splash, Welcome, and Onboarding screens
 ├── Database/         # DbHelper.java for SQLite operations
