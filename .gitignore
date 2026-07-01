@@ -17,3 +17,7 @@ local.properties
 # Secrets and signing keys
 github.properties
 *.jks
+
+# IDE settings
+.vscode/
+
